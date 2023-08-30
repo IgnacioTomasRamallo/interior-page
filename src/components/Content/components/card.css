@@ -1,0 +1,37 @@
+.contenedor-titulos{
+    display: flex;
+    color: white;
+}
+.imagen-card{
+    border-radius: 100%;
+    width: 85px;
+    margin-right: 85px;
+
+}
+.contenedor-card{
+    width: 410px;
+    background-color: #181719;
+    margin-right: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.card-titulo{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 500;
+}
+.card-parrafo{
+    color: #828282;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+}
+.card-relleno{
+    color: #FFF;
+    font-size: 24px;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+}

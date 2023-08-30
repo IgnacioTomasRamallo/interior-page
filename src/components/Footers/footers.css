@@ -1,0 +1,11 @@
+p{
+    color: white;
+}
+.conteiner-footer{
+    text-align: center;
+    margin-top: 90px;
+    font-family: 'Montserrat', sans-serif;
+}
+.username{
+    font-weight: bold;
+}
